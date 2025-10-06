@@ -52,7 +52,8 @@ Para centrar el aprendizaje en la lógica frontend y simplificar el desarrollo, 
 
 # 📝 Créditos
 
-- 💻 **Proyecto:** Minishell – Escuela 42  
-- ✍️ **Autoras originales:** Miriam Fernández Pérez y Emilie Sellier
+- 💻 **Proyecto:** ShopNow – It Academy  
+- ✍️ **Autora original:** Miriam Fernández Pérez
 
 ---
+
